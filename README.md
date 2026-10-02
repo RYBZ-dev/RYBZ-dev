@@ -19,7 +19,12 @@
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,github&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,figma,pr,ae,vscode&theme=dark" alt="Stack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Phaser-0d1117?style=for-the-badge&logoColor=white" alt="Phaser" />
+  <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
 </p>
 
 ### Projets
