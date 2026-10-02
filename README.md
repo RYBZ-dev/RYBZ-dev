@@ -36,4 +36,4 @@
 
 ### Activité
 
-<img alt="Mes contributions GitHub en 3D" src="profile-3d-contrib/profile-night-view.svg" width="100%" />
+<img alt="Mes contributions GitHub" src="assets/contributions.svg" width="100%" />
