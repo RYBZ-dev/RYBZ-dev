@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=4FA3FF&center=true&vCenter=true&width=620&lines=Salut%2C+moi+c'est+RYBZ+%F0%9F%91%8B;D%C3%A9veloppeur+web+%26+game+dev;%C3%89tudiant+en+BUT+MMI" alt="Salut, moi c'est RYBZ" />
+# Salut, moi c'est RYBZ
 
 <a href="https://mathysribes.fr"><img src="https://img.shields.io/badge/Portfolio-mathysribes.fr-0d1117?style=for-the-badge&logo=googlechrome&logoColor=4FA3FF" alt="Portfolio" /></a>
 <a href="https://www.youtube.com/@RYBZLIFT"><img src="https://img.shields.io/badge/YouTube-@RYBZLIFT-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
@@ -9,26 +9,26 @@
 
 ---
 
-### 🧑‍💻 À propos
+### À propos
 
-- 🎓 Étudiant en **BUT MMI** (Métiers du Multimédia et de l'Internet)
-- 🌐 Je construis des sites et des web apps, du design jusqu'à la mise en ligne
-- 🎮 En ce moment : **DEICIDE**, un jeu de plateforme vertical pour borne d'arcade
-- 🎬 Je fais aussi de la vidéo sur YouTube
+- Étudiant en **BUT MMI** (Métiers du Multimédia et de l'Internet)
+- Je construis des sites et des web apps, du design jusqu'à la mise en ligne
+- En ce moment : **DEICIDE**, un jeu de plateforme vertical pour borne d'arcade
+- Je fais aussi de la vidéo sur YouTube
 
-### 🛠️ Stack
+### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,vite,git,figma&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github&theme=dark" alt="Stack" />
 </p>
 
-### 🚀 Projets
+### Projets
 
 | Projet | Description |
 |---|---|
-| 🌐 **[Portfolio](https://mathysribes.fr)** | Site one-page bilingue, React + TypeScript + Tailwind, API YouTube en Node/Express |
-| 🎮 **[DEICIDE](https://github.com/bdarties/arcade/tree/main/games/2026/deicide)** | Plateformer vertical en Phaser, thème ombre et lumière, joué sur une borne d'arcade |
+| **[Portfolio](https://mathysribes.fr)** | Site one-page bilingue, React + TypeScript + Tailwind, API YouTube en Node/Express |
+| **[DEICIDE](https://github.com/bdarties/arcade/tree/main/games/2026/deicide)** | Plateformer vertical en Phaser, thème ombre et lumière, joué sur une borne d'arcade |
 
-### 📈 Activité
+### Activité
 
 <img alt="Mes contributions GitHub en 3D" src="profile-3d-contrib/profile-night-view.svg" width="100%" />
